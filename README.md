@@ -8,6 +8,8 @@
   <a target="_blank" href="https://www.instagram.com/rochleo99/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
   </a>  
   <a target="_blank" href="https://www.linkedin.com/in/leonardo-pereira-rocha-70a855233/">
+    <img src="https://img.shields.io/badge/LinkedIn-307cc5?style=for-the-badge&logo=linkedin&logoColor=white&color=004182"/>
+  </a>
 </p>
 
 # <h3 align="left">Tecnologias que eu utilizo:</h3>
