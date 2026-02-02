@@ -1,24 +1,70 @@
-<h1 align="center">Olá 👋, eu sou o Leonardo</h1>
-<h3 align="center">Desenvolvedor Full Stack apaixonado por tecnologia</h3>
+<h1 align="center">Leonardo Rocha</h1>
+
+<h3 align="center">
+Desenvolvedor Back-End
+</h3>
 
 <p align="center">
-  <a target="_blank" href="https://twitter.com/rleop99">
-    <img src="https://img.shields.io/twitter/follow/pedroperegrinaa?color=1DA1F2&logo=twitter&style=for-the-badge&label=twitter"/>
-  </a>
-  <a target="_blank" href="https://www.instagram.com/rochleo99/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
-  </a>  
-  <a target="_blank" href="https://www.linkedin.com/in/leonardo-pereira-rocha-70a855233/">
-    <img src="https://img.shields.io/badge/LinkedIn-307cc5?style=for-the-badge&logo=linkedin&logoColor=white&color=004182"/>
-  </a>
-</p>
-
-# <h3 align="left">Tecnologias que eu utilizo:</h3>
-<p align="left"> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vue.js_Logo_2.svg/512px-Vue.js_Logo_2.svg.png?20170919082558" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a>
-<a href="https://go.dev/" target="_blank">
-    <img src="https://go.dev/blog/go-brand/Go-Logo/PNG/Go-Logo_Blue.png" width="40" height="40" alt="Go Logo">
+<a href="https://www.linkedin.com/in/leonardo-pereira-rocha-70a855233/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-004182?style=flat&logo=linkedin&logoColor=white"/>
+</a>
+<a href="https://www.instagram.com/rochleo99/" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white"/>
 </a>
 </p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=leoonpr&show_icons=true&locale=en&layout=compact" alt="leoonpr" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=leoonpr&show_icons=true&locale=en" alt="leoonpr" /></p>
+---
 
+### 👋 Sobre mim
+
+Sou formando em Sistemas de Informação e desenvolvedor backend, com experiência prática no desenvolvimento de software, atuando principalmente em backend, arquitetura de sistemas e integração de aplicações.
+
+Trabalho com projetos reais aplicando boas práticas de engenharia de software, como organização de código, arquitetura limpa e foco em manutenibilidade. Paralelamente, mantenho um aprofundamento contínuo nos fundamentos da computação, buscando tomar decisões técnicas mais sólidas e escaláveis no dia a dia profissional.
+
+
+Tenho interesse especial em:
+- arquitetura limpa, DDD e boas práticas de engenharia de software  
+- algoritmos e estruturas de dados aplicados à resolução de problemas reais  
+- sistemas distribuídos e comunicação entre serviços  
+- computação em nuvem, DevOps e CI/CD  
+- testes automatizados, qualidade de software e observabilidade  
+- inteligência artificial aplicada a produtos e sistemas    
+
+> *“Computer science is about understanding computation.”*  
+> — **Donald Knuth**
+
+---
+
+### 🛠️ Tecnologias
+
+**Backend**
+- C#, .NET
+- Node.js
+- Java
+- Go
+- C
+
+**Frontend**
+- TypeScript / JavaScript
+- React
+
+**Dados & Infra**
+- MySQL
+- MongoDB
+- Docker
+- Git / GitHub
+- CI/CD
+
+---
+
+### 📌 Projetos em Destaque
+- APIs REST e sistemas backend em .NET  
+- Aplicações Full Stack  
+- Estudos e implementações de algoritmos  
+- Projetos acadêmicos e autodidatas  
+
+---
+
+### 📫 Contato
+
+- LinkedIn: [Leonardo Rocha](https://www.linkedin.com/in/leonardo-pereira-rocha-70a855233/)
