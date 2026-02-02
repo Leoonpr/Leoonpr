@@ -51,6 +51,8 @@ Tenho interesse especial em:
 **Dados & Infra**
 - MySQL
 - MongoDB
+- PostgreSQL
+- SQL Server
 - Docker
 - Git / GitHub
 - CI/CD
